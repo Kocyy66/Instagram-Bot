@@ -201,7 +201,7 @@ LoginInfo.txt
 -must manually add to it
 
 PeoplePreviouslyAdded.txt
--contains a list of people the program has previiously added
+-contains a list of people the program has previously added
 -[name 1, name 2, name 3, name 4, name 5 ... name 9999, name 10000]
 -program adds to it with each follow click
 
